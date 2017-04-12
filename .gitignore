@@ -97,3 +97,13 @@ wp-content/mysql.sql
 *.wmv
 *.avi
 
+# INN Specific
+.yeopress
+wp-content/plugins/
+wp-content/themes/twentyeleven/
+wp-content/themes/twentyfifteen/
+wp-content/themes/twentyfourteen/
+wp-content/themes/twentyseventeen/
+wp-content/themes/twentythirteen/
+wp-content/themes/twentytwelve/
+
