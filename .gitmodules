@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/labs"]
+	path = wp-content/themes/labs
+	url = https://github.com/INN/labs.git
