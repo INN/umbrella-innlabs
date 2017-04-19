@@ -1,6 +1,3 @@
 [submodule "wp-content/themes/labs"]
 	path = wp-content/themes/labs
 	url = https://github.com/INN/labs.git
-[submodule "wp-content/themes/largo"]
-	path = wp-content/themes/largo
-	url = https://github.com:INN/Largo.git
