@@ -3,4 +3,4 @@
 	url = https://github.com/INN/labs.git
 [submodule "wp-content/themes/largo"]
 	path = wp-content/themes/largo
-	url = git@github.com:INN/Largo.git
+	url = https://github.com:INN/Largo.git
